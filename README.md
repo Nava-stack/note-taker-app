@@ -1,4 +1,4 @@
-# Getting Started with Note Taker App
+# Getting Started with Note Taker App (Simple front-end React)
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -11,9 +11,9 @@ This project was created with [Create React App](https://github.com/facebook/cre
 
 ## Getting Started
 
-To get started with the note taking app, follow these steps:
+To get started with the note-taking app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/nava-stack/note-taker-app.git`
+1. Clone the repository: `[git clone https://github.com/Nava-stack/note-taker-app.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
